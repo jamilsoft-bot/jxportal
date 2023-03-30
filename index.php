@@ -48,8 +48,8 @@
             <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">News</a>
             <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Discuss</a>
             <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Contribute</a>
-            <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Learn</a>
-            <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-blue w3-round w3-mobile">Download</a>
+            <a href="https://jamilgrow.jamilsoft.com.ng" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Learn</a>
+            <a href="https://github.com/jamilsoft-bot/jamilX" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-blue w3-round w3-mobile">Download</a>
         </nav>
     </header>
     <div class="hero" style="background-color: whitesmoke;">
@@ -63,7 +63,7 @@
             <p class="w3-large">
                 The PHP Framework for RAD and Saas Applications. Build Faster, Code Smarter, and Deliver Exceptional User Experiences.
             </p>
-            <a href="#" class="w3-button w3-border-bottom w3-hover-white w3-hover-border-blue w3-blue w3-mobile w3-round" style="width:16.66%">Get Started Today!</a>
+            <a href="https://github.com/jamilsoft-bot/JamilX" class="w3-button w3-border-bottom w3-hover-white w3-hover-border-blue w3-blue w3-mobile w3-round" style="width:16.66%">Get Started Today!</a>
             <br>
             <br>
             <span class="w3-bar">
@@ -78,9 +78,11 @@
     <br>
     <div class="main w3-container w3-mobile w3-center">
         <h1 class="w3-text-blue">Why Jamilx?</h1>
-        <br>
-        <br>
-        <!-- <div class="w3-content w3-mobile" style="max-width: 75%;"> -->
+        <div class="w3-container p-2 m-4 w3-large">
+            <p>
+                Jamilx stands out among its competitors due to its unique features such as the Prototype-Container-Service architecture, reusable actions, easy command-line tools, secure default settings, extensibility, and customization. With a focus on rapid application development and SaaS applications, Jamilx provides businesses with a flexible and secure framework that can be easily customized to meet their unique needs.
+            </p>
+        </div>
 
             <div class="w3-row">
                 <div class="w3-half">
@@ -165,7 +167,7 @@
                 <div class="col-md-3 p-2">
                     <div class="w3-card p-2">
                         <h3>Download page</h3>
-                        <a href="#" class="w3-btn w3-text-blue">Find all the Releases</a>
+                        <a href="https://github.com/jamilsoft-bot/jamilX" class="w3-btn w3-text-blue">Find all the Releases</a>
                         <br>
                         <i class="fas fa-cloud w3-xxlarge"></i>
                     </div>
