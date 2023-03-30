@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jamilx</title>
-    <link rel="stylesheet" href="assets/w3/w3.css">
-    <link rel="stylesheet" href="assets/bs5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/font/css/all.css">
+    <link rel="stylesheet" href="lib/w3/w3.css">
+    <link rel="stylesheet" href="lib/bs5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="lib/font/css/all.css">
     <link rel="shortcut icon" href="jslogobird.png" type="image/x-icon">
     <style>
         *{
@@ -15,7 +15,7 @@
             margin: 0;
             font-family: serif;
         }
-        .w3-threequarter h4 p{
+        .w3-threequarter{
             text-align: left;
         }
         .sub-main{
