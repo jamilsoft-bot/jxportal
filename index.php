@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jamilx</title>
+    <title>Jamilx - PHP Framework for Building Sass Programs</title>
     <link rel="stylesheet" href="lib/w3/w3.css">
     <link rel="stylesheet" href="lib/bs5/css/bootstrap.min.css">
     <link rel="stylesheet" href="lib/font/css/all.css">
@@ -57,20 +57,18 @@
         <br>
         <br>
         <div class="w3-container w3-mobile w3-center">
-            <h1 class="w3-text-blue w3-jumbo w3-mobile">Jamilx</h1>
+            <h1 class="w3-text-blue w3-jumbo w3-mobile">JamilX</h1>
             <br>
-            <h3 class="w3-wide">Ever Framework with powerful features</h3>
+            <h3 class="w3-wide">Transform Your Development Process with Jamilx</h3>
             <p class="w3-large">
-                Its the powerful Framework features with a small footprints, build for developers who need simple 
-                <br> 
-                and elegant toolkits to create full features of web application.
+                The PHP Framework for RAD and Saas Applications. Build Faster, Code Smarter, and Deliver Exceptional User Experiences.
             </p>
-            <a href="#" class="w3-button w3-border-bottom w3-hover-white w3-hover-border-blue w3-blue w3-mobile w3-round" style="width:16.66%">Learn more</a>
+            <a href="#" class="w3-button w3-border-bottom w3-hover-white w3-hover-border-blue w3-blue w3-mobile w3-round" style="width:16.66%">Get Started Today!</a>
             <br>
             <br>
             <span class="w3-bar">
-                <a href="#" class="w3-btn w3-border-bottom w3-hover-white w3-hover-border-blue"> <i class="fab fa-github">star 20113</i></a>
-                <a href="#" class="w3-btn w3-border-bottom w3-hover-white w3-hover-border-blue"> <i class="fab fa-github">fork 20113</i></a>
+                <a href="#" class="w3-btn w3-border-bottom w3-hover-white w3-hover-border-blue"> <i class="fab fa-github"> star 20113</i></a>
+                <a href="#" class="w3-btn w3-border-bottom w3-hover-white w3-hover-border-blue"> <i class="fab fa-github"> fork 20113</i></a>
             </span>
         </div>
         <br>
@@ -91,11 +89,9 @@
                             <i class="fas fa-cube w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter w3-mobile">
-                            <h4 style="font-weight: bolder;">Framework with the small footprint</h4>
+                            <h4 style="font-weight: bolder;">Rapid application development</h4>
                             <p class="w3-large">
-                                codeigneter 5 is a 500KB Download. plus 
-                                <br>
-                                750KB for the user guide
+                                Jamilx is specifically designed for rapid application development (RAD) and Software as a Service (SaaS) applications. It provides a MVC architecture that helps developers to quickly build and deploy applications.
                             </p>
                         </div>
                     </div>
@@ -104,10 +100,9 @@
                             <i class="fas fa-cubes w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter">
-                            <h4 style="font-weight: bolder;">Architecture</h4>
+                            <h4 style="font-weight: bolder;">Reusable components</h4>
                             <p class="w3-large">
-                                Jamilx follows the Model-Container-Service (MCS) pattern, which is a variation of the Model-View-Controller
-                                (MVC) pattern.This pattern allows for a separation of concerns and promotes modularity and flexibility.
+                                Jamilx comes with reusable components called "actions" that can be accessed by any service. These actions help to save time and effort in coding and accelerate the development process.
                             </p>
                         </div>
                     </div>
@@ -116,9 +111,9 @@
                             <i class="fab fa-php w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter">
-                            <h4 style="font-weight: bolder;">Exceptional Performance</h4>
+                            <h4 style="font-weight: bolder;">Flexibility</h4>
                             <p class="w3-large">
-                                Developers can create reusable Container templates and use them across multiple Services.
+                                Jamilx supports MySQL as a default database, but developers can easily use a different database if required. Additionally, the framework is modular and allows developers to easily add or remove components as needed.
                             </p>
                         </div>
                     </div>
@@ -130,36 +125,31 @@
                             <i class="fab fa-laravel w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter">
-                            <h4 style="font-weight: bolder;">Database support</h4>
+                            <h4 style="font-weight: bolder;">Command line tools</h4>
                             <p class="w3-large">
-                                Jamilx supports MySQL and SQLite databases. It uses an ORM called JamilxDB, which provides an
-                                easy-to-use interface for database operations.
+                                Jamilx comes with a set of command line tools that can be used to perform tasks such as code generation, database operations, and more. These tools help to streamline the development process and make it more efficient.
                             </p>
                         </div>
                     </div>
                     <div class="w3-row">
                         <div class="w3-quarter">
-                            <i class="fas fa-book-reader w3-jumbo w3-text-blue"></i>
+                            <i class="fas  w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter">
-                            <h4 style="font-weight: bolder;">Admin interface</h4>
+                            <h4 style="font-weight: bolder;">Strong security features</h4>
                             <p class="w3-large">
-                                Jamilx provides an admin interface for managing Modules, Users, Roles, and Application settings.
-                                The admin  
-                                <br>
-                                interface is customizable and can be extended to include custom features.
+                                Jamilx includes several built-in security features such as input validation and sanitization, authentication and authorization, secure communications, and error handling and logging. This helps to ensure that applications built with Jamilx are secure and protect user data.
                             </p>
                         </div>
                     </div>
                     <div class="w3-row">
                         <div class="w3-quarter">
-                            <i class="fas fa-i-cursor w3-jumbo w3-text-blue"></i>
+                            <i class="fa fa-users w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter">
-                            <h4 style="font-weight: bolder;">Caching</h4>
+                            <h4 style="font-weight: bolder;">Active community</h4>
                             <p class="w3-large">
-                                Jamilx provides a caching system that supports multiple backends, including file-based, APCu, and Redis.
-                                Caching can be configured on a per-Service basis.
+                                Jamilx has an active and supportive community of developers who contribute to the framework's development and offer support to others. This helps to ensure that the framework remains up-to-date and continues to improve over time.
                             </p>
                         </div>
                     </div>
@@ -206,35 +196,39 @@
                 </div>
             </div>
         </div>
-        <br>
-        <br>
-        <div class="sub-main w3-center">
-            <h2 class="w3-text-blue w3-center">Jamil X Forum</h2>
-            <br>
-            <br>
-            <div class="w3-row w3-mobile">
-                <div class="w3-half w3-mobile">
-                    <h3>Recent News</h3>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 5.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 4.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 5.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 5.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigneter 5.0 released</a>
-                </div>
-                <div class="w3-half w3-mobile">
-                    <h3>Active forum Threat</h3>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 5.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 4.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 5.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigniter 5.0 released</a>
-                    <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-xlarge w3-mobile">2023.01.01 &nbsp;&nbsp;&nbsp;&nbsp; codeigneter 5.0 released</a>
-                </div>
+       
+    </div>
+<div class="w3-container mt-4 w3-center w3-text-blue">
+    <h1>JamilX Apps List</h1>
+</div>
+<div class="w3-container m-3">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="w3-container">
+                <h2>JamilPress</h2>
+                <p>A Bloging/CMS Platform build using Jamilx</p>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="w3-container">
+                <h2>Jcommerce</h2>
+                <p>A full featured Multivendor E-commerce platform to anything online</p>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="w3-container">
+                <h2>KamalERP</h2>
+                <p>A complete school management System/ERP</p>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="w3-container">
+                <h2>Ruqee webmail</h2>
+                <p>An Email cleint  Platform build using Jamilx</p>
             </div>
         </div>
     </div>
-
-    <br>
-    <br>
+</div>
 
     <footer class="w3-blue footer">
         <div class="w3-bar w3-card-2 w3-container w3-text-white">
@@ -254,8 +248,8 @@
             </div>
         </div>
         <div class="w3-center w3-margin w3-padding footer3">
-                <p class="w3-xlarge w3-text-white">&copy; 2023 Jamilx foundation. Jamilx is free open source project release under i</p>
-                <span class="w3-center w3-mobile w3-xxlarge w3-text-white"><i class="fab fa-laravel"></i></span>
+                <p class="w3-xlarge w3-text-white">&copy; 2023 Prof. Iya Abubkar Commuity Resource center Bauchi</p>
+                <!-- <span class="w3-center w3-mobile w3-xxlarge w3-text-white"><i class="fab fa-laravel"></i></span> -->
         </div>
         
     </footer>
