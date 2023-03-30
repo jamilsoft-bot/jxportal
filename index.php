@@ -46,8 +46,8 @@
         <span class="w3-text-blue w3-bar-item w3-xlarge w3-mobile">Jamil<span style="font-weight: bolder;" >X</span> </span>
         <nav class="nav w3-bar-item w3-right w3-mobile">
             <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">News</a>
-            <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Discuss</a>
-            <a href="#" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Contribute</a>
+            <a href="https://github.com/jamilsoft-bot/JamilX/discussions" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Discuss</a>
+            <a href="https://github.com/jamilsoft-bot/jamilX" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Contribute</a>
             <a href="https://jamilgrow.jamilsoft.com.ng" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-text-blue w3-large w3-mobile">Learn</a>
             <a href="https://github.com/jamilsoft-bot/jamilX" class="w3-button w3-hover-white w3-border-bottom w3-border-white w3-hover-border-blue w3-blue w3-round w3-mobile">Download</a>
         </nav>
@@ -124,7 +124,7 @@
                 <div class="w3-half">
                     <div class="w3-row">
                         <div class="w3-quarter">
-                            <i class="fab fa-laravel w3-jumbo w3-text-blue"></i>
+                            <i class="fa fa-code w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter">
                             <h4 style="font-weight: bolder;">Command line tools</h4>
@@ -135,7 +135,7 @@
                     </div>
                     <div class="w3-row">
                         <div class="w3-quarter">
-                            <i class="fas  w3-jumbo w3-text-blue"></i>
+                            <i class="fas fa-rocket w3-jumbo w3-text-blue"></i>
                         </div>
                         <div class="w3-threequarter">
                             <h4 style="font-weight: bolder;">Strong security features</h4>

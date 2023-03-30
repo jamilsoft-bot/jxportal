@@ -1,0 +1,5 @@
+1. goto laravel website
+2. navigate to the section that said 
+        "Enterprise scale without the enterprise complexity."
+3. clone the app List
+4. add it to jxportal app list section
