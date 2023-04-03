@@ -214,7 +214,7 @@
         <div class="col-md-3">
             <div class="w3-container">
                 <h2>Jcommerce</h2>
-                <p>A full featured Multivendor E-commerce platform to anything online</p>
+                <p>A full featured Multivendor E-commerce platform to Buy and Sell anything online</p>
             </div>
         </div>
         <div class="col-md-3">
