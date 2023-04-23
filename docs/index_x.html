@@ -34,36 +34,22 @@
                 <div class="w3-container p-3">
                     <div class="w3-card">
                         <header class="w3-container w3-bottombar w3-border-blue">
-                            <h1>Services</h1>
+                            <h1>Services - (Controllers)</h1>
                         </header>
                         <div class="w3-container p-5">
-                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi perspiciatis tempore
-                                adipisci voluptatem?</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum temporibus eius corporis
-                                laborum quibusdam, aspernatur, inventore dolores qui possimus ut neque sunt non
-                                adipisci! Similique reiciendis facere quos labore tenetur.</p>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim minima cupiditate quae
-                                voluptate sapiente quos, ad, adipisci consectetur magnam quaerat quibusdam est et
-                                doloribus veniam incidunt modi quidem tempora quisquam.</p>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis illo id nostrum esse
-                                nulla fugiat placeat molestiae repellendus adipisci obcaecati minus, cupiditate vel
-                                architecto officiis delectus sunt libero consequuntur tempora.</p>
-                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi perspiciatis tempore
-                                adipisci voluptatem?</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum temporibus eius corporis
-                                laborum quibusdam,
-                                aspernatur, inventore dolores qui possimus ut neque sunt non adipisci! Similique
-                                reiciendis facere quos labore
-                                tenetur.</p>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim minima cupiditate quae
-                                voluptate sapiente quos, ad,
-                                adipisci consectetur magnam quaerat quibusdam est et doloribus veniam incidunt modi
-                                quidem tempora quisquam.</p>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis illo id nostrum esse
-                                nulla fugiat placeat molestiae
-                                repellendus adipisci obcaecati minus, cupiditate vel architecto officiis delectus sunt
-                                libero consequuntur tempora.
-                            </p>
+                                <h3>
+                                    In JamilX, "Services" are the building blocks of an application.
+                                </h3>
+                            <div class="w3-container">
+                                
+                                    <p>
+                                        A Service is a PHP class that extends the <span class="w3-yellow">JXService</span>  class and implements the <span class="w3-yellow">JXServiceI</span> interface. Services are responsible for processing incoming requests, interacting with the application's data sources (such as a database or external API), and returning the appropriate response.
+
+Each Service is registered with JamilX, allowing it to be accessed via a unique URL. Requests to a Service URL are handled by JamilX's routing system, which determines which Service should be called based on the request's URL parameters. Once the correct Service has been identified, JamilX instantiates the corresponding class and calls its methods to process the request.
+
+Services are designed to be modular and reusable, allowing developers to easily build complex applications by combining and reusing existing Services. JamilX includes a number of built-in Services that provide common functionality, such as authentication and user management, and developers can also create their own custom Services to meet the specific needs of their application.
+                                </p>
+                            </div>
                         </div>
                         <footer class="w3-container p-3">
                             <div class="w3-bar">
